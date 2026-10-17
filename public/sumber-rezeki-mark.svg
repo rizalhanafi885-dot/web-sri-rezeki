@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Sumber Rezeki</title>
+  <defs>
+    <linearGradient id="green" x1="9" y1="54" x2="50" y2="8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#047857"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="34" y1="55" x2="57" y2="22" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#fcd34d"/>
+    </linearGradient>
+  </defs>
+  <path fill="#ecfdf5" d="M32 3a29 29 0 1 0 0 58 29 29 0 0 0 0-58Z"/>
+  <path fill="url(#green)" d="M12 37C13 20 27 10 48 12c0 19-11 33-28 33h-5c8-4 17-12 23-21-9 9-17 13-26 13Z"/>
+  <path fill="#065f46" d="M18 48c9-9 17-16 27-26-5 12-13 23-24 29z"/>
+  <path fill="url(#gold)" d="M39 42c4-5 10-7 16-6-2 8-7 13-14 14l-7-1 5-7Z"/>
+  <path fill="#fbbf24" d="M43 49c3-4 7-6 12-7-3 5-6 8-11 10z"/>
+</svg>
